@@ -88,3 +88,11 @@ ORDER BY Speed_limit ASC;
 
 SELECT Speed_limit, COUNT(Accident_Severity) FROM accidents.accidents_2015
 GROUP BY Speed_limit;
+
+##Create a new table with the fields of interest used in analysis
+CREATE TABLE accidents_new AS 
+SELECT Accident_Index, Longitude, Latitude, Accident_Severity, Number_of_Vehicles,
+Number_of_Casualties, Date, Day_of_Week, Month_name, Time, Hour, Weather_Conditions,
+Road_Surface_Conditions, Speed_limit FROM accidents.accidents_2015;
+
+
