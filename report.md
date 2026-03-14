@@ -38,10 +38,17 @@ Another factor is the speed limit whose influence can be greatly associated with
 
 ## Insights
 * Accidents with level 3 severity result to the highest figures across every variable analyzed
-* Most accidents appear to occur during rush hours, either early in the morning or late in the afternnon and evenings
+* Most accidents appear to occur during rush hours, either early in the morning or late in the afternoon and evenings
 * July is the mot susceptible month to record a high number of cases
 * Extreme weather conditions contribute largely to the number of casualties
-* Majority of the accidents occur in areas with a speed limit of 30km/h. However, terrible road surface conditions generally result to extreme cases regardless of the speed limit. 
+* Majority of the accidents occur in areas with a speed limit of 30km/h. However, terrible road surface conditions generally result to extreme cases regardless of the speed limit.
+
+## Recommendations
+* Investigate what classifies an accident as of level 3 severity, and from the factors listed above employ the necessary measures to reduce them
+* Monitor the routes mostly during rush hours to control the traffic and reduce such incidences
+* Investigate the events or social factors that occur during July to determine what specifically contributes to the high numbers
+* Control and manage traffic during extreme weather conditions and issue out alerts during such periods
+* Repair and improve the roads effectively to reduce the number of cases
 
 
 
