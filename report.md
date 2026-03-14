@@ -20,10 +20,15 @@ Generally, there is are observable differences in the number of cases for each h
 
 ![Number of accidents by hour of day](uk_visualizations/Number_of_accidents_by_hour_of_the_day.png)
 
-Another interesting trend how the numbers vary for each one of them according to the type of day. There is a distinct difference between the weekdays(labeled as 2-6) and weekends(labeled as 1 and 7). On average, the numbers rise from 7 am and significantly top at 8 in the morning on weekdays. The same goes for evening hours from 3 to 7pm where the charts rise above average levels.
-The weekends present different figures with most instances happening in the 1 in the afternoon to 8 in the evening.
+Another interesting trend how the numbers vary for each one of them according to the type of day. There is a distinct difference between the weekdays(labeled as 2-6) and weekends(labeled as 1 and 7). On average, the numbers rise from 0700hrs and significantly top at 0800hrs on weekdays. The same goes for evening hours from 1500 to 1900hrs where the charts rise above average levels.
+The weekends present different figures with most instances happening from 1300hrs to 2000hrs.
 
 ![Hours per day of week](uk_visualizations/Frequent_Hours_per_Day_of_Week.png)
+
+### Key factors 
+The number of casualties is greatly influenced by different factors in the dataset. Weather conditions were grouped from 1 to 10, with 1 being the worst and 10 rating as good. The data showed that conditions grouped as 1 led to the largest number of casualties overall.
+
+![Weather conditions](uk_visualizations/Number_of_casualties_by_Weather_conditions.png)
 
 
 
