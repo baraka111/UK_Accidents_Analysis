@@ -31,9 +31,19 @@ The number of casualties is greatly influenced by different factors in the datas
 ![Weather conditions](uk_visualizations/Number_of_casualties_by_Weather_conditions.png)
 
 Another factor is the speed limit whose influence can be greatly associated with the road surface conditions. The speed limits range from 10 to 70km/h and road surface conditions coded from 1 to 4. Correlating these two, it shows that areas with speed limit of 30 and road surface conditions marked as 1 had the highest casualties of 11668.
-*This is an interactive viz. To view the results and label marks, find the tableau visualization ![here](https://public.tableau.com/authoring/UK_Accidents_analysis/NumberofcasualtiesbySpeedlimit#1)*
+*This is an interactive viz. To view the results and label marks, find the tableau visualization [here](https://public.tableau.com/authoring/UK_Accidents_analysis/NumberofcasualtiesbySpeedlimit#1)*
 
 ![Speed limit and road surface conditions](uk_visualizations/Number_of_casualties_by_Speed_limit.png)
+
+
+## Insights
+* Accidents with level 3 severity result to the highest figures across every variable analyzed
+* Most accidents appear to occur during rush hours, either early in the morning or late in the afternnon and evenings
+* July is the mot susceptible month to record a high number of cases
+* Extreme weather conditions contribute largely to the number of casualties
+* Majority of the accidents occur in areas with a speed limit of 30km/h. However, terrible road surface conditions generally result to extreme cases regardless of the speed limit. 
+
+
 
 
 
