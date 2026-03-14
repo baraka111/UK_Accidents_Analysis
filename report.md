@@ -14,7 +14,7 @@ The dataset provided had a total of 12713 reported cases grouped as either level
 ### Trend of accidents over time
 When we focus on the number of accidents for each month, we are able to spot the periods prone to have the highest number of cases. July recorded the highest with 1181 cases, with the numbers peaking from April to August between which the cases rose above the rest of the other months while the first and last three months had relatively lower numbers.
 
-![Number of accidents for each month](uk_visualizations/Number_of_accidents_for_each_month)
+![Number of accidents for each month](uk_visualizations/Number_of_accidents_for_each_month.png)
 
 
 
